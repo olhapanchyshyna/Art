@@ -110,8 +110,8 @@ const modal = () =>{
         
 
     
-        // showModalByTime('.popup-consultation', 60000);
-        // showModalByScroll('.popup-gift', gift);
+        showModalByTime('.popup-consultation', 60000);
+        showModalByScroll('.popup-gift', gift);
     }
     bindModal('.popup-design','.button-design', '.popup-design .popup-close');
     bindModal('.popup-consultation','.button-consultation','.popup-consultation .popup-close');

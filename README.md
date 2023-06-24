@@ -1,12 +1,3 @@
-# Art
-
-Это мой учебный проект, мною был написан только JS код . 
-
-# 
-
-This is my educational project, I only wrote the JS code.
-
-#
 
 ## Список выполнених мною заданий:
 

@@ -15,7 +15,7 @@ function mask(selector){
             range.moveStart('character', pos);
             range.select();
         }
-    };
+    }
 
     function createMask(event) {
         // Чтобы с переду маски (кода страны) пользователь не смог вводить данные
